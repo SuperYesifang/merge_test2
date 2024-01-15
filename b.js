@@ -1,0 +1,1 @@
+console.log("this file is test 2 file b.js")
